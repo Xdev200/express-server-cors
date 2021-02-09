@@ -1,0 +1,18 @@
+{
+  "name": "@xdev200/auto-server-cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["auto-express-server,server-with-cors","express-server-cors"],
+  "author": "https://twitter.com/xdev_200",
+  "license": "MIT",
+  "repository": "https://github.com/Xdev200/express-server-cors",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
